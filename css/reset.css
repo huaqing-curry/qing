@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+html,body,span,h1,h2,h3,h4,h5,h6,p,img,dl,dt,dd,ul,ol,li,form,label,table,tr,th,td{
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-weight:inherit;
+	vertical-align:baseline;
+}
+:focus{
+   outline:	0;
+}
+body{
+   line-height:1;
+   color:black;
+   background:white;	
+}
+ol,ul{
+   list-style:none;
+}
+
+
